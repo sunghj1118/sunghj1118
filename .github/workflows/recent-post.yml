@@ -43,6 +43,11 @@ jobs:
           sed -i '/^<!-- MOST_RECENT_POST -->$/c\Most Recent Post: [${{ steps.fetch-post.outputs.post_title }}](${{ steps.fetch-post.outputs.post_link }})' README.md
           echo "README updated with the most recent post."
 
+      - name: Log updated README line
+        run: |
+          echo "Logging the updated README line..."
+          grep 'Most Recent Post:' README.md
+
       - name: Commit changes
         run: |
           echo "Committing changes..."
