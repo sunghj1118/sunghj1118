@@ -15,19 +15,16 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Install pup
+      - name: Install xmllint
         run: |
-          echo "Installing pup..."
-          wget -qO pup.zip https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
-          unzip pup.zip
-          sudo mv pup_v0.4.0_linux_amd64/pup /usr/local/bin/
-          rm -rf pup.zip pup_v0.4.0_linux_amd64
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
 
       - name: Fetch recent blog post
         run: |
           echo "Fetching the recent blog post..."
-          RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a text{}' | head -n 1)
-          RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a attr{href}' | head -n 1)
+          RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/text()' - 2>/dev/null | head -n 1 | xargs)
+          RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/@href' - 2>/dev/null | sed 's/href="//;s/"//g' | head -n 1 | xargs)
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
           echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}"
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}" >> $GITHUB_ENV
