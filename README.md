@@ -14,6 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-placeholder
-
+**Most Recent Post:** [Setting up Github Stats](https://sunghj1118.github.io/blog/github-stats/)
 <!-- END_RECENT_POST -->
