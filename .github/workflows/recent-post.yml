@@ -2,7 +2,7 @@ name: Update README with Most Recent Blog Post
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 */12 * * *'  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -45,7 +45,7 @@ jobs:
       - name: Update README
         run: |
           echo "Updating README..."
-          sed -i '/^<!-- MOST_RECENT_POST -->$/c\Most Recent Post: [${{ steps.fetch-post.outputs.post_title }}](${{ steps.fetch-post.outputs.post_link }})' README.md
+          sed -i '/^<!-- START_RECENT_POST -->$/,/^<!-- END_RECENT_POST -->$/c\<!-- START_RECENT_POST -->\n**Most Recent Post:** [${{ steps.fetch-post.outputs.post_title }}](${{ steps.fetch-post.outputs.post_link }})\n<!-- END_RECENT_POST -->' README.md
           echo "README updated with the most recent post."
 
       - name: Log README after update
