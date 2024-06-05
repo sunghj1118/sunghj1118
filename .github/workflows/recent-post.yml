@@ -12,28 +12,40 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Fetch recent blog post
         run: |
+          echo "Fetching the recent blog post..."
           RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io/feed.xml | grep -o '<title>[^<]*</title>' | sed -n '2p' | sed 's/<title>\(.*\)<\/title>/\1/')
           RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io/feed.xml | grep -o '<link>[^<]*</link>' | sed -n '2p' | sed 's/<link>\(.*\)<\/link>/\1/')
+          echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
+          echo "RECENT_POST_LINK=${RECENT_POST_LINK}"
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}" >> $GITHUB_ENV
           echo "RECENT_POST_LINK=${RECENT_POST_LINK}" >> $GITHUB_ENV
 
       - name: Update README
         run: |
+          echo "Updating README..."
           sed -i '/^<!-- MOST_RECENT_POST -->$/c\Most Recent Post: [${RECENT_POST_TITLE}](${RECENT_POST_LINK})' README.md
+          echo "README updated with the most recent post."
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          echo "Committing changes..."
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m 'Update most recent blog post'
-          git push
+          git commit -m 'Update most recent blog post' || echo "No changes to commit"
+          echo "Changes committed."
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Push changes
         run: |
-          git push https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
+          echo "Pushing changes..."
+          git push https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          echo "Changes pushed."
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
