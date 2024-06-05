@@ -17,14 +17,17 @@ jobs:
 
       - name: Install pup
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pup
+          echo "Installing pup..."
+          wget -qO- https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_linux_amd64.zip > pup.zip
+          unzip pup.zip
+          sudo mv pup /usr/local/bin/
+          rm pup.zip
 
       - name: Fetch recent blog post
         run: |
           echo "Fetching the recent blog post..."
-          RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a text{}' | head -n 1)
-          RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a attr{href}' | head -n 1)
+          RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | ./pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a text{}' | head -n 1)
+          RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | ./pup 'div.pages__PostContainer-sc-1kgpy79-7 h3 a attr{href}' | head -n 1)
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
           echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}"
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}" >> $GITHUB_ENV
