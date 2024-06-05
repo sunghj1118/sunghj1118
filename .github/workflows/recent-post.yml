@@ -18,7 +18,7 @@ jobs:
       - name: Install pup
         run: |
           echo "Installing pup..."
-          wget -qO- https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_linux_amd64.zip > pup.zip
+          wget -qO- https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip > pup.zip
           unzip pup.zip
           sudo mv pup /usr/local/bin/
           rm pup.zip
