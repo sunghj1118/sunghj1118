@@ -21,25 +21,26 @@ jobs:
           sudo apt-get install -y libxml2-utils
 
       - name: Fetch recent blog post
+        id: fetch-post
         run: |
           echo "Fetching the recent blog post..."
           RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/text()' - 2>/dev/null | head -n 1 | xargs)
           RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/@href' - 2>/dev/null | sed 's/href="//;s/"//g' | head -n 1 | xargs)
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
           echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}"
-          echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}" >> $GITHUB_ENV
-          echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}" >> $GITHUB_ENV
+          echo "::set-output name=post_title::${RECENT_POST_TITLE}"
+          echo "::set-output name=post_link::https://sunghj1118.github.io${RECENT_POST_LINK}"
 
       - name: Check environment variables
         run: |
           echo "Checking environment variables..."
-          echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
-          echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}"
+          echo "RECENT_POST_TITLE=${{ steps.fetch-post.outputs.post_title }}"
+          echo "RECENT_POST_LINK=${{ steps.fetch-post.outputs.post_link }}"
 
       - name: Update README
         run: |
           echo "Updating README..."
-          sed -i '/^<!-- MOST_RECENT_POST -->$/c\Most Recent Post: [${RECENT_POST_TITLE}](https://sunghj1118.github.io${RECENT_POST_LINK})' README.md
+          sed -i '/^<!-- MOST_RECENT_POST -->$/c\Most Recent Post: [${{ steps.fetch-post.outputs.post_title }}](${{ steps.fetch-post.outputs.post_link }})' README.md
           echo "README updated with the most recent post."
 
       - name: Commit changes
