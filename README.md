@@ -13,4 +13,4 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 
 <br>
 
-<!-- MOST_RECENT_POST -->
+Most Recent Post: [${RECENT_POST_TITLE}](${RECENT_POST_LINK})
