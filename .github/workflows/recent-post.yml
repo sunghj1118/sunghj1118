@@ -1,0 +1,38 @@
+name: Update README with Most Recent Blog Post
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch recent blog post
+        run: |
+          curl -s https://sunghj1118.github.io/feed.xml | grep -o '<title>[^<]*</title>' | sed -n '2p' | sed 's/<title>\(.*\)<\/title>/\1/' > recent-post.txt
+
+      - name: Get blog link
+        run: |
+          POST_LINK=$(curl -s https://sunghj1118.github.io/feed.xml | grep -o '<link>[^<]*</link>' | sed -n '2p' | sed 's/<link>\(.*\)<\/link>/\1/')
+          echo "POST_LINK=${POST_LINK}" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          RECENT_POST=$(cat recent-post.txt)
+          POST_LINK=$POST_LINK
+          sed -i '/^Most Recent Post:/d' README.md
+          echo -e "Most Recent Post: [${RECENT_POST}](${POST_LINK})\n$(cat README.md)" > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update most recent blog post'
+          git push
