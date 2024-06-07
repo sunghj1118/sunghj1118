@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [846. Hand of Straights](https://sunghj1118.github.io/algorithm/LEET/L846Hand of Straights/)
+**Most Recent Post:** [846. Hand of Straights](https://sunghj1118.github.io/algorithm/LEET/L846Hand%20of%20Straights/)
 <!-- END_RECENT_POST -->
