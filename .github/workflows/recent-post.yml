@@ -26,10 +26,11 @@ jobs:
           echo "Fetching the recent blog post..."
           RECENT_POST_TITLE=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/text()' - 2>/dev/null | head -n 1 | xargs)
           RECENT_POST_LINK=$(curl -s https://sunghj1118.github.io | xmllint --html --xpath '//div[contains(@class,"pages__PostContainer-sc-1kgpy79-7")]//h3/a[1]/@href' - 2>/dev/null | sed 's/href="//;s/"//g' | head -n 1 | xargs)
+          ENCODED_POST_LINK=$(python3 -c "import urllib.parse; print(urllib.parse.quote('https://sunghj1118.github.io${RECENT_POST_LINK}', safe=':/'))")
           echo "RECENT_POST_TITLE=${RECENT_POST_TITLE}"
-          echo "RECENT_POST_LINK=https://sunghj1118.github.io${RECENT_POST_LINK}"
+          echo "RECENT_POST_LINK=${ENCODED_POST_LINK}"
           echo "::set-output name=post_title::${RECENT_POST_TITLE}"
-          echo "::set-output name=post_link::https://sunghj1118.github.io${RECENT_POST_LINK}"
+          echo "::set-output name=post_link::${ENCODED_POST_LINK}"
 
       - name: Check environment variables
         run: |
