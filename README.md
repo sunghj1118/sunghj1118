@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1337. The K Weakest Rows in a Matrix](https://sunghj1118.github.io/algorithm/LEET/L1337TheKWeakestRowsinaMatrix/)
+**Most Recent Post:** [974. Subarray Sums Divisible by K](https://sunghj1118.github.io/algorithm/LEET/L974SubarraySumsDivisiblebyK/)
 <!-- END_RECENT_POST -->
