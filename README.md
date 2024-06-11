@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [974. Subarray Sums Divisible by K](https://sunghj1118.github.io/algorithm/LEET/L974SubarraySumsDivisiblebyK/)
+**Most Recent Post:** [1051. Height Checker](https://sunghj1118.github.io/algorithm/LEET/L1051HeightChecker/)
 <!-- END_RECENT_POST -->
