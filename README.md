@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1051. Height Checker](https://sunghj1118.github.io/algorithm/LEET/L1051HeightChecker/)
+**Most Recent Post:** [1122. Relative Sort Array](https://sunghj1118.github.io/algorithm/LEET/L1122RelativeSortArray/)
 <!-- END_RECENT_POST -->
