@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1122. Relative Sort Array](https://sunghj1118.github.io/algorithm/LEET/L1122RelativeSortArray/)
+**Most Recent Post:** [75. Sort Colors](https://sunghj1118.github.io/algorithm/LEET/L75SortColors/)
 <!-- END_RECENT_POST -->
