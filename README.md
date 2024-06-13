@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [75. Sort Colors](https://sunghj1118.github.io/algorithm/LEET/L75SortColors/)
+**Most Recent Post:** [2037. Minimum Number of Moves to Seat Everyone](https://sunghj1118.github.io/algorithm/LEET/L2037MinimumNumberofMovestoSeatEveryone/)
 <!-- END_RECENT_POST -->
