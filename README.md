@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2037. Minimum Number of Moves to Seat Everyone](https://sunghj1118.github.io/algorithm/LEET/L2037MinimumNumberofMovestoSeatEveryone/)
+**Most Recent Post:** [945. Minimum Increment to Make Array Unique](https://sunghj1118.github.io/algorithm/LEET/L945MinimumIncrementtoMakeArrayUnique/)
 <!-- END_RECENT_POST -->
