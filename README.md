@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [945. Minimum Increment to Make Array Unique](https://sunghj1118.github.io/algorithm/LEET/L945MinimumIncrementtoMakeArrayUnique/)
+**Most Recent Post:** [502. IPO](https://sunghj1118.github.io/algorithm/LEET/L502IPO/)
 <!-- END_RECENT_POST -->
