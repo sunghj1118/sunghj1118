@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [502. IPO](https://sunghj1118.github.io/algorithm/LEET/L502IPO/)
+**Most Recent Post:** [826. Most Profit Assigning Work](https://sunghj1118.github.io/algorithm/LEET/L826MostProfitAssigningWork/)
 <!-- END_RECENT_POST -->
