@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [826. Most Profit Assigning Work](https://sunghj1118.github.io/algorithm/LEET/L826MostProfitAssigningWork/)
+**Most Recent Post:** [코딩 테스트 후기: 코딜리티](https://sunghj1118.github.io/algorithm/log/202406codility/)
 <!-- END_RECENT_POST -->
