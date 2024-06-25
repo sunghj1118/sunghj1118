@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [코딩 테스트 후기: 코딜리티](https://sunghj1118.github.io/algorithm/log/202406codility/)
+**Most Recent Post:** [995. Minimum Number of K Consecutive Bit Flips](https://sunghj1118.github.io/algorithm/LEET/L995MinimumNumberofKFlips/)
 <!-- END_RECENT_POST -->
