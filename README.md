@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [995. Minimum Number of K Consecutive Bit Flips](https://sunghj1118.github.io/algorithm/LEET/L995MinimumNumberofKFlips/)
+**Most Recent Post:** [1038. Binary Search Tree to Greater Sum Tree](https://sunghj1118.github.io/algorithm/LEET/L1038BSTtoGreaterSumTree/)
 <!-- END_RECENT_POST -->
