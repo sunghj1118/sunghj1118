@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1382. Balance a Binary Search Tree](https://sunghj1118.github.io/algorithm/LEET/L1382BalanceaBST/)
+**Most Recent Post:** [1248. Count Number of Nice Subarrays](https://sunghj1118.github.io/algorithm/LEET/L1248CountNumberofNiceSubarrays/)
 <!-- END_RECENT_POST -->
