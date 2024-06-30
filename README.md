@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://sunghj1118.github.io/algorithm/LEET/L2192AncestorsinDAG/)
+**Most Recent Post:** [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://sunghj1118.github.io/algorithm/LEET/L1579RemoveMaxNumEdgesforGraph/)
 <!-- END_RECENT_POST -->
