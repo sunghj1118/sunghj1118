@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://sunghj1118.github.io/algorithm/LEET/L1579RemoveMaxNumEdgesforGraph/)
+**Most Recent Post:** [1550. Three Consecutive Odds](https://sunghj1118.github.io/algorithm/LEET/L1550ThreeConsecutiveOdds/)
 <!-- END_RECENT_POST -->
