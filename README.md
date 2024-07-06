@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://sunghj1118.github.io/algorithm/LEET/L2058MinMaxDbetweenNodes/)
+**Most Recent Post:** [2582. Pass the Pillow](https://sunghj1118.github.io/algorithm/LEET/L2582PassthePillow/)
 <!-- END_RECENT_POST -->
