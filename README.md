@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1518. Water Bottles](https://sunghj1118.github.io/algorithm/LEET/L1518WaterBottles/)
+**Most Recent Post:** [1823. Find the Winner of the Circular Game](https://sunghj1118.github.io/algorithm/LEET/L1823WinnerCircularGame/)
 <!-- END_RECENT_POST -->
