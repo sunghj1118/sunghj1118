@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1598. Crawler Log Folder](https://sunghj1118.github.io/algorithm/LEET/L1598CrawlerLogFolder/)
+**Most Recent Post:** [1190. Reverse Substrings Between Each Pair of Parentheses](https://sunghj1118.github.io/algorithm/LEET/L1190ReverseSubstringsParenthesis/)
 <!-- END_RECENT_POST -->
