@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1717. Maximum Score From Removing Substrings](https://sunghj1118.github.io/algorithm/LEET/L1717MaximumScoreFromRemovingSubstrings/)
+**Most Recent Post:** [2751. Robot Collisions](https://sunghj1118.github.io/algorithm/LEET/L2751RobotCollisions/)
 <!-- END_RECENT_POST -->
