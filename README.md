@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2751. Robot Collisions](https://sunghj1118.github.io/algorithm/LEET/L2751RobotCollisions/)
+**Most Recent Post:** [726. Number of Atoms](https://sunghj1118.github.io/algorithm/LEET/L726NumberAtoms/)
 <!-- END_RECENT_POST -->
