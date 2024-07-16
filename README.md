@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2196. Create Binary Tree From Descriptions](https://sunghj1118.github.io/algorithm/LEET/L2196CreateBinaryTreeFromDescriptions/)
+**Most Recent Post:** [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://sunghj1118.github.io/algorithm/LEET/L2096ShortestPathbetweenNodes/)
 <!-- END_RECENT_POST -->
