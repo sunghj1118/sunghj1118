@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://sunghj1118.github.io/algorithm/LEET/L2096ShortestPathbetweenNodes/)
+**Most Recent Post:** [1110. Delete Nodes And Return Forest](https://sunghj1118.github.io/algorithm/LEET/L1110DeleteNodesAndReturnForest/)
 <!-- END_RECENT_POST -->
