@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2392. Build a Matrix With Conditions](https://sunghj1118.github.io/algorithm/LEET/L2392MatrixWithConditions/)
+**Most Recent Post:** [2418. Sort the People](https://sunghj1118.github.io/algorithm/LEET/L2418SortthePeople/)
 <!-- END_RECENT_POST -->
