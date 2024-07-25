@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1636. Sort Array by Increasing Frequency](https://sunghj1118.github.io/algorithm/LEET/L1636SortArraybyIncreasingFrequency/)
+**Most Recent Post:** [2191. Sort the Jumbled Numbers](https://sunghj1118.github.io/algorithm/LEET/L2191SorttheJumbledNumbers/)
 <!-- END_RECENT_POST -->
