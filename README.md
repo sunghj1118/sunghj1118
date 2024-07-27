@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://sunghj1118.github.io/algorithm/LEET/L1334CitySmallestNeighborsThresholdDistance/)
+**Most Recent Post:** [2976. Minimum Cost to Convert String I](https://sunghj1118.github.io/algorithm/LEET/L2976MinimumCosttoConvertStringI/)
 <!-- END_RECENT_POST -->
