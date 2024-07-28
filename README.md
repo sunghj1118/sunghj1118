@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2976. Minimum Cost to Convert String I](https://sunghj1118.github.io/algorithm/LEET/L2976MinimumCosttoConvertStringI/)
+**Most Recent Post:** [2045. Second Minimum Time to Reach Destination](https://sunghj1118.github.io/algorithm/LEET/L2045SecondMinimumTimeDestination/)
 <!-- END_RECENT_POST -->
