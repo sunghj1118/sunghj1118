@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2045. Second Minimum Time to Reach Destination](https://sunghj1118.github.io/algorithm/LEET/L2045SecondMinimumTimeDestination/)
+**Most Recent Post:** [1395. Count Number of Teams](https://sunghj1118.github.io/algorithm/LEET/L1395CountNumberofTeams/)
 <!-- END_RECENT_POST -->
