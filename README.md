@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [885. Spiral Matrix III](https://sunghj1118.github.io/algorithm/LEET/L885SpiralMatrixIII/)
+**Most Recent Post:** [840. Magic Squares In Grid](https://sunghj1118.github.io/algorithm/LEET/L840MagicSquaresInGrid/)
 <!-- END_RECENT_POST -->
