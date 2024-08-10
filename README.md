@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [840. Magic Squares In Grid](https://sunghj1118.github.io/algorithm/LEET/L840MagicSquaresInGrid/)
+**Most Recent Post:** [959. Regions Cut By Slashes](https://sunghj1118.github.io/algorithm/LEET/L959RegionsCutBySlashes/)
 <!-- END_RECENT_POST -->
