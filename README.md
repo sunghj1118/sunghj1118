@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [959. Regions Cut By Slashes](https://sunghj1118.github.io/algorithm/LEET/L959RegionsCutBySlashes/)
+**Most Recent Post:** [1568. Minimum Number of Days to Disconnect Island](https://sunghj1118.github.io/algorithm/LEET/L1568MinimumNumberofDaystoDisconnectIsland/)
 <!-- END_RECENT_POST -->
