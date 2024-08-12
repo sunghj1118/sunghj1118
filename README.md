@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1568. Minimum Number of Days to Disconnect Island](https://sunghj1118.github.io/algorithm/LEET/L1568MinimumNumberofDaystoDisconnectIsland/)
+**Most Recent Post:** [703. Kth Largest Element in a Stream](https://sunghj1118.github.io/algorithm/LEET/L703KthLargestElementinaStream/)
 <!-- END_RECENT_POST -->
