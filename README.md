@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [703. Kth Largest Element in a Stream](https://sunghj1118.github.io/algorithm/LEET/L703KthLargestElementinaStream/)
+**Most Recent Post:** [40. Combination Sum II](https://sunghj1118.github.io/algorithm/LEET/L40CombinationSumII/)
 <!-- END_RECENT_POST -->
