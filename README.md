@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [719. Find K-th Smallest Pair Distance](https://sunghj1118.github.io/algorithm/LEET/L719FindKthSmallestPairDistance/)
+**Most Recent Post:** [860. Lemonade Change](https://sunghj1118.github.io/algorithm/LEET/L860LemonadeChange/)
 <!-- END_RECENT_POST -->
