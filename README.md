@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [860. Lemonade Change](https://sunghj1118.github.io/algorithm/LEET/L860LemonadeChange/)
+**Most Recent Post:** [624. Maximum Distance in Arrays](https://sunghj1118.github.io/algorithm/LEET/L624MaximumDistanceinArrays/)
 <!-- END_RECENT_POST -->
