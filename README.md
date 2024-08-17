@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [624. Maximum Distance in Arrays](https://sunghj1118.github.io/algorithm/LEET/L624MaximumDistanceinArrays/)
+**Most Recent Post:** [1937. Maximum Number of Points with Cost](https://sunghj1118.github.io/algorithm/LEET/L1937MaximumNumberofPointswithCost/)
 <!-- END_RECENT_POST -->
