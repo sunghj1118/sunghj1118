@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [264. Ugly Number II](https://sunghj1118.github.io/algorithm/LEET/L264UglyNumberII/)
+**Most Recent Post:** [650. 2 Keys Keyboard](https://sunghj1118.github.io/algorithm/LEET/L650TwoKeysKeyboard/)
 <!-- END_RECENT_POST -->
