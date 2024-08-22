@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [664. Strange Printer](https://sunghj1118.github.io/algorithm/LEET/L664StrangePrinter/)
+**Most Recent Post:** [476. Number Complement](https://sunghj1118.github.io/algorithm/LEET/L476NumberComplement/)
 <!-- END_RECENT_POST -->
