@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [476. Number Complement](https://sunghj1118.github.io/algorithm/LEET/L476NumberComplement/)
+**Most Recent Post:** [592. Fraction Addition and Subtraction](https://sunghj1118.github.io/algorithm/LEET/L592FractionAdditionandSubtraction/)
 <!-- END_RECENT_POST -->
