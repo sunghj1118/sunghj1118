@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [590. N-ary Tree Postorder Traversal](https://sunghj1118.github.io/algorithm/LEET/L590N-aryTreePostorderTraversal/)
+**Most Recent Post:** [1514. Path with Maximum Probability](https://sunghj1118.github.io/algorithm/LEET/L1514PathwithMaximumProbability/)
 <!-- END_RECENT_POST -->
