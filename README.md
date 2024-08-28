@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1514. Path with Maximum Probability](https://sunghj1118.github.io/algorithm/LEET/L1514PathwithMaximumProbability/)
+**Most Recent Post:** [1905. Count Sub Islands](https://sunghj1118.github.io/algorithm/LEET/L1905CountSubIslands/)
 <!-- END_RECENT_POST -->
