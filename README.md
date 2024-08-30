@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1552. Magnetic Force Between Two Balls](https://sunghj1118.github.io/algorithm/LEET/L1552MagneticForceBetweenTwoBalls/)
+**Most Recent Post:** [2699. Modify Graph Edge Weights](https://sunghj1118.github.io/algorithm/LEET/L2699ModifyGraphEdgeWeights/)
 <!-- END_RECENT_POST -->
