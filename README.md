@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2699. Modify Graph Edge Weights](https://sunghj1118.github.io/algorithm/LEET/L2699ModifyGraphEdgeWeights/)
+**Most Recent Post:** [1482. Minimum Number of Days to Make m Bouquets](https://sunghj1118.github.io/algorithm/LEET/L1482MinimumNumberofDaystoMakemBouquets/)
 <!-- END_RECENT_POST -->
