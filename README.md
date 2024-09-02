@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2022. Convert 1D Array Into 2D Array](https://sunghj1118.github.io/algorithm/LEET/L2022Convert1DArrayInto2DArray/)
+**Most Recent Post:** [1894. Find the Student that Will Replace the Chalk](https://sunghj1118.github.io/algorithm/LEET/L1894FindtheStudentthatWillReplacetheChalk/)
 <!-- END_RECENT_POST -->
