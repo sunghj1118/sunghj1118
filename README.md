@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2028. Find Missing Observations](https://sunghj1118.github.io/algorithm/LEET/L2028FindMissingObservations/)
+**Most Recent Post:** [Cross Compilers](https://sunghj1118.github.io/CS/CrossCompilers/)
 <!-- END_RECENT_POST -->
