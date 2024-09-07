@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Cross Compilers](https://sunghj1118.github.io/CS/CrossCompilers/)
+**Most Recent Post:** [1367. Linked List in Binary Tree](https://sunghj1118.github.io/algorithm/LEET/L1367LinkedListinBinaryTree/)
 <!-- END_RECENT_POST -->
