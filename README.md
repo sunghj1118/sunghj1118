@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [725. Split Linked List in Parts](https://sunghj1118.github.io/algorithm/LEET/L725SplitLinkedListinParts/)
+**Most Recent Post:** [Contiguous Subsequence는 무엇일까](https://sunghj1118.github.io/CS/contiguous/)
 <!-- END_RECENT_POST -->
