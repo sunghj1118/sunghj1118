@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Contiguous Subsequence는 무엇일까](https://sunghj1118.github.io/CS/contiguous/)
+**Most Recent Post:** [2807. Insert Greatest Common Divisors in Linked List](https://sunghj1118.github.io/algorithm/LEET/L2807InsertGreatestCommonDivisorsinLinkedList/)
 <!-- END_RECENT_POST -->
