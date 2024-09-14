@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1차 모의고사 기출문제](https://sunghj1118.github.io/kubernetes/cka1/)
+**Most Recent Post:** [2419. Longest Subarray With Maximum Bitwise AND](https://sunghj1118.github.io/algorithm/LEET/L2419LongestSubarrayWithMaximumBitwiseAND/)
 <!-- END_RECENT_POST -->
