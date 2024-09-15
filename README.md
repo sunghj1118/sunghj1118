@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2419. Longest Subarray With Maximum Bitwise AND](https://sunghj1118.github.io/algorithm/LEET/L2419LongestSubarrayWithMaximumBitwiseAND/)
+**Most Recent Post:** [1371. Find the Longest Substring Containing Vowels in Even Counts](https://sunghj1118.github.io/algorithm/LEET/L1371FindtheLongestSubstringContainingVowelsinEvenCounts/)
 <!-- END_RECENT_POST -->
