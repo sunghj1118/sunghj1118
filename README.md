@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [884. Uncommon Words from Two Sentences](https://sunghj1118.github.io/algorithm/LEET/L884UncommonWordsfromTwoSentences/)
+**Most Recent Post:** [179. Largest Number](https://sunghj1118.github.io/algorithm/LEET/L179LargestNumber/)
 <!-- END_RECENT_POST -->
