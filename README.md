@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [241. Different Ways to Add Parentheses](https://sunghj1118.github.io/algorithm/LEET/L241DifferentWaystoAddParentheses/)
+**Most Recent Post:** [214. Shortest Palindrome](https://sunghj1118.github.io/algorithm/LEET/L214ShortestPalindrome/)
 <!-- END_RECENT_POST -->
