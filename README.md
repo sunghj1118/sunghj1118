@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [214. Shortest Palindrome](https://sunghj1118.github.io/algorithm/LEET/L214ShortestPalindrome/)
+**Most Recent Post:** [386. Lexicographical Numbers](https://sunghj1118.github.io/algorithm/LEET/L386LexicographicalNumbers/)
 <!-- END_RECENT_POST -->
