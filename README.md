@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [386. Lexicographical Numbers](https://sunghj1118.github.io/algorithm/LEET/L386LexicographicalNumbers/)
+**Most Recent Post:** [440. K-th Smallest in Lexicographical Order](https://sunghj1118.github.io/algorithm/LEET/L440KthSmallestinLexicographicalOrder/)
 <!-- END_RECENT_POST -->
