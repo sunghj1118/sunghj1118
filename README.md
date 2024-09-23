@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [440. K-th Smallest in Lexicographical Order](https://sunghj1118.github.io/algorithm/LEET/L440KthSmallestinLexicographicalOrder/)
+**Most Recent Post:** [Amazon Cloud Support Intern - OA Workplace Simulation 준비과정](https://sunghj1118.github.io/blog/AWS-CSA-OA-LP/)
 <!-- END_RECENT_POST -->
