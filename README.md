@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Amazon Cloud Support Intern - OA Workplace Simulation 준비과정](https://sunghj1118.github.io/blog/AWS-CSA-OA-LP/)
+**Most Recent Post:** [3043. Find the Length of the Longest Common Prefix](https://sunghj1118.github.io/algorithm/LEET/L3043FindtheLengthoftheLongestCommonPrefix/)
 <!-- END_RECENT_POST -->
