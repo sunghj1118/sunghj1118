@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2416. Sum of Prefix Scores of Strings](https://sunghj1118.github.io/algorithm/LEET/L2416SumofPrefixScoresofStrings/)
+**Most Recent Post:** [Amazon Cloud Support Intern - OA Technical Assessment 준비과정](https://sunghj1118.github.io/blog/AWS-CSA-OA-TechAssess/)
 <!-- END_RECENT_POST -->
