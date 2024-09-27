@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Amazon Cloud Support Intern - OA Technical Assessment 준비과정](https://sunghj1118.github.io/blog/AWS-CSA-OA-TechAssess/)
+**Most Recent Post:** [Amazon Cloud Support Intern - Online Assessment 후기](https://sunghj1118.github.io/blog/AWS-CSA-OA-retrospective/)
 <!-- END_RECENT_POST -->
