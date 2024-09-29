@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [641. Design Circular Deque](https://sunghj1118.github.io/algorithm/LEET/L641DesignCircularDeque/)
+**Most Recent Post:** [1002. Find Common Characters](https://sunghj1118.github.io/algorithm/LEET/L1002FindCommonCharacters/)
 <!-- END_RECENT_POST -->
