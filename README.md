@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Amazon Cloud Support Intern - Phone Interview 절차](https://sunghj1118.github.io/blog/AWS-CSA-Interview1/)
+**Most Recent Post:** [641. Design Circular Deque](https://sunghj1118.github.io/algorithm/LEET/L641DesignCircularDeque/)
 <!-- END_RECENT_POST -->
