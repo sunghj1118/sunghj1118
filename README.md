@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1002. Find Common Characters](https://sunghj1118.github.io/algorithm/LEET/L1002FindCommonCharacters/)
+**Most Recent Post:** [1381. Design a Stack With Increment Operation](https://sunghj1118.github.io/algorithm/LEET/L1381DesignaStackWithIncrementOperation/)
 <!-- END_RECENT_POST -->
