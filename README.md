@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1381. Design a Stack With Increment Operation](https://sunghj1118.github.io/algorithm/LEET/L1381DesignaStackWithIncrementOperation/)
+**Most Recent Post:** [1497. Check If Array Pairs Are Divisible by k](https://sunghj1118.github.io/algorithm/LEET/L1497CheckIfArrayPairsAreDivisiblebyk/)
 <!-- END_RECENT_POST -->
