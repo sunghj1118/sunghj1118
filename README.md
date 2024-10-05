@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2491. Divide Players Into Teams of Equal Skill](https://sunghj1118.github.io/algorithm/LEET/L2491DividePlayersIntoTeamsofEqualSkill/)
+**Most Recent Post:** [567. Permutation in String](https://sunghj1118.github.io/algorithm/LEET/L567PermutationinString/)
 <!-- END_RECENT_POST -->
