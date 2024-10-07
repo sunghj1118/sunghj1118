@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1813. Sentence Similarity III](https://sunghj1118.github.io/algorithm/LEET/L1813SentenceSimilarityIII/)
+**Most Recent Post:** [2696. Minimum String Length After Removing Substrings](https://sunghj1118.github.io/algorithm/LEET/L2696MinimumStringLengthAfterRemovingSubstrings/)
 <!-- END_RECENT_POST -->
