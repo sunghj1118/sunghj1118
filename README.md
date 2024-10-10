@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [921. Minimum Add to Make Parentheses Valid](https://sunghj1118.github.io/algorithm/LEET/L921MinimumAddtoMakeParenthesesValid/)
+**Most Recent Post:** [962. Maximum Width Ramp](https://sunghj1118.github.io/algorithm/LEET/L962MaximumWidthRamp/)
 <!-- END_RECENT_POST -->
