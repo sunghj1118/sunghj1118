@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [962. Maximum Width Ramp](https://sunghj1118.github.io/algorithm/LEET/L962MaximumWidthRamp/)
+**Most Recent Post:** [1942. The Number of the Smallest Unoccupied Chair](https://sunghj1118.github.io/algorithm/LEET/L1942TheNumberoftheSmallestUnoccupiedChair/)
 <!-- END_RECENT_POST -->
