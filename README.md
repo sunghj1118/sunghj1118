@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1942. The Number of the Smallest Unoccupied Chair](https://sunghj1118.github.io/algorithm/LEET/L1942TheNumberoftheSmallestUnoccupiedChair/)
+**Most Recent Post:** [Nginx 인그레스 컨트롤러에 SSL/TLS 보안 연결 적용](https://sunghj1118.github.io/kubernetes/2024-2study/%08nginx-ssl-tls/)
 <!-- END_RECENT_POST -->
