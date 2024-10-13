@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2406. Divide Intervals Into Minimum Number of Groups](https://sunghj1118.github.io/algorithm/LEET/L2406DivideIntervalsIntoMinimumNumberofGroups/)
+**Most Recent Post:** [632. Smallest Range Covering Elements from K Lists](https://sunghj1118.github.io/algorithm/LEET/L632SmallestRangeCoveringElementsfromKLists/)
 <!-- END_RECENT_POST -->
