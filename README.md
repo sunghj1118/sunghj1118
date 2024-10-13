@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Nginx 인그레스 컨트롤러에 SSL/TLS 보안 연결 적용](https://sunghj1118.github.io/kubernetes/2024-2study/%08nginx-ssl-tls/)
+**Most Recent Post:** [2406. Divide Intervals Into Minimum Number of Groups](https://sunghj1118.github.io/algorithm/LEET/L2406DivideIntervalsIntoMinimumNumberofGroups/)
 <!-- END_RECENT_POST -->
