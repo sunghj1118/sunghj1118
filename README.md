@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [632. Smallest Range Covering Elements from K Lists](https://sunghj1118.github.io/algorithm/LEET/L632SmallestRangeCoveringElementsfromKLists/)
+**Most Recent Post:** [2530. Maximal Score After Applying K Operations](https://sunghj1118.github.io/algorithm/LEET/L2530MaximalScoreAfterApplyingKOperations/)
 <!-- END_RECENT_POST -->
