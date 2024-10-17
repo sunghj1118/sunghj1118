@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1405. Longest Happy String](https://sunghj1118.github.io/algorithm/LEET/L1405LongestHappyString/)
+**Most Recent Post:** [670. Maximum Swap](https://sunghj1118.github.io/algorithm/LEET/L670MaximumSwap/)
 <!-- END_RECENT_POST -->
