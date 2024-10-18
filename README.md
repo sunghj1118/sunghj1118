@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [670. Maximum Swap](https://sunghj1118.github.io/algorithm/LEET/L670MaximumSwap/)
+**Most Recent Post:** [2044. Count Number of Maximum Bitwise-OR Subsets](https://sunghj1118.github.io/algorithm/LEET/L2044CountNumberofMaximumBitwiseORSubsets/)
 <!-- END_RECENT_POST -->
