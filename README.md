@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2583. Kth Largest Sum in a Binary Tree](https://sunghj1118.github.io/algorithm/LEET/L2583KthLargestSuminaBinaryTree/)
+**Most Recent Post:** [2641. Cousins in Binary Tree II](https://sunghj1118.github.io/algorithm/LEET/L2641CousinsinBinaryTreeII/)
 <!-- END_RECENT_POST -->
