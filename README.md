@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2641. Cousins in Binary Tree II](https://sunghj1118.github.io/algorithm/LEET/L2641CousinsinBinaryTreeII/)
+**Most Recent Post:** [951. Flip Equivalent Binary Trees](https://sunghj1118.github.io/algorithm/LEET/L951FlipEquivalentBinaryTrees/)
 <!-- END_RECENT_POST -->
