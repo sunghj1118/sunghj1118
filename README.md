@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [Amazon Cloud Support Intern - Loop Interview 후기](https://sunghj1118.github.io/blog/aws-csa-intern24-9/AWS-CSA-%08loopint3%20copy/)
+**Most Recent Post:** [SCSI, iSCSI (스카시, 아이스카시)](https://sunghj1118.github.io/CS/system_prog/SCSI/)
 <!-- END_RECENT_POST -->
