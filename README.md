@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2458. Height of Binary Tree After Subtree Removal Queries](https://sunghj1118.github.io/algorithm/LEET/L2458HeightofBinaryTreeAfterSubtreeRemovalQueries/)
+**Most Recent Post:** [Amazon Cloud Support Intern - Loop Interview 후기](https://sunghj1118.github.io/blog/aws-csa-intern24-9/AWS-CSA-%08loopint3%20copy/)
 <!-- END_RECENT_POST -->
