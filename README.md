@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2684. Maximum Number of Moves in a Grid](https://sunghj1118.github.io/algorithm/LEET/L2684MaximumNumberofMovesinaGrid/)
+**Most Recent Post:** [1671. Minimum Number of Removals to Make Mountain Array](https://sunghj1118.github.io/algorithm/LEET/L1671MinimumNumberofRemovalstoMakeMountainArray/)
 <!-- END_RECENT_POST -->
