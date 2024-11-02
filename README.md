@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1957. Delete Characters to Make Fancy String](https://sunghj1118.github.io/algorithm/LEET/L1957DeleteCharacterstoMakeFancyString/)
+**Most Recent Post:** [2490. Circular Sentence](https://sunghj1118.github.io/algorithm/LEET/L2490CircularSentence/)
 <!-- END_RECENT_POST -->
