@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2490. Circular Sentence](https://sunghj1118.github.io/algorithm/LEET/L2490CircularSentence/)
+**Most Recent Post:** [796. Rotate String](https://sunghj1118.github.io/algorithm/LEET/L796RotateString/)
 <!-- END_RECENT_POST -->
