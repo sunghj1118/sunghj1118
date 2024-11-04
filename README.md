@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [796. Rotate String](https://sunghj1118.github.io/algorithm/LEET/L796RotateString/)
+**Most Recent Post:** [3163. String Compression III](https://sunghj1118.github.io/algorithm/LEET/L3163StringCompressionIII/)
 <!-- END_RECENT_POST -->
