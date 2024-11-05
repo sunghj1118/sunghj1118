@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [3163. String Compression III](https://sunghj1118.github.io/algorithm/LEET/L3163StringCompressionIII/)
+**Most Recent Post:** [2914. Minimum Number of Changes to Make Binary String Beautiful](https://sunghj1118.github.io/algorithm/LEET/L2914MinimumNumberofChangestoMakeBinaryStringBeautiful/)
 <!-- END_RECENT_POST -->
