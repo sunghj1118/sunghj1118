@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2601. Prime Subtraction Operation](https://sunghj1118.github.io/algorithm/LEET/L2601PrimeSubtractionOperation/)
+**Most Recent Post:** [2070. Most Beautiful Item for Each Query](https://sunghj1118.github.io/algorithm/LEET/L2070MostBeautifulItemforEachQuery/)
 <!-- END_RECENT_POST -->
