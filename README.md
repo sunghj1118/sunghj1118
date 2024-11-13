@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2070. Most Beautiful Item for Each Query](https://sunghj1118.github.io/algorithm/LEET/L2070MostBeautifulItemforEachQuery/)
+**Most Recent Post:** [2563. Count the Number of Fair Pairs](https://sunghj1118.github.io/algorithm/LEET/L2563CounttheNumberofFairPairs/)
 <!-- END_RECENT_POST -->
