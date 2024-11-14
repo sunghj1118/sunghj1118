@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2563. Count the Number of Fair Pairs](https://sunghj1118.github.io/algorithm/LEET/L2563CounttheNumberofFairPairs/)
+**Most Recent Post:** [2064. Minimized Maximum of Products Distributed to Any Store](https://sunghj1118.github.io/algorithm/LEET/L2064MinimizedMaximumofProductsDistributedtoAnyStore/)
 <!-- END_RECENT_POST -->
