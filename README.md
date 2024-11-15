@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2064. Minimized Maximum of Products Distributed to Any Store](https://sunghj1118.github.io/algorithm/LEET/L2064MinimizedMaximumofProductsDistributedtoAnyStore/)
+**Most Recent Post:** [1574. Shortest Subarray to be Removed to Make Array Sorted](https://sunghj1118.github.io/algorithm/LEET/L1574ShortestSubarraytobeRemovedtoMakeArraySorted/)
 <!-- END_RECENT_POST -->
