@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [1574. Shortest Subarray to be Removed to Make Array Sorted](https://sunghj1118.github.io/algorithm/LEET/L1574ShortestSubarraytobeRemovedtoMakeArraySorted/)
+**Most Recent Post:** [862. Shortest Subarray with Sum at Least K](https://sunghj1118.github.io/algorithm/LEET/L862ShortestSubarraywithSumatLeastK/)
 <!-- END_RECENT_POST -->
