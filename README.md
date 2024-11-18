@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [862. Shortest Subarray with Sum at Least K](https://sunghj1118.github.io/algorithm/LEET/L862ShortestSubarraywithSumatLeastK/)
+**Most Recent Post:** [3차 모의고사 기출문제](https://sunghj1118.github.io/kubernetes/CKA/cka-mock3/)
 <!-- END_RECENT_POST -->
