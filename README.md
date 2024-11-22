@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2461. Maximum Sum of Distinct Subarrays With Length K](https://sunghj1118.github.io/algorithm/LEET/L2461MaximumSumofDistinctSubarraysWithLengthK/)
+**Most Recent Post:** [CKA 시험 준비 D-day](https://sunghj1118.github.io/kubernetes/CKA/cka-dday/)
 <!-- END_RECENT_POST -->
