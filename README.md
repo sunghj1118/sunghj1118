@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [CKA 시험 준비 D-day](https://sunghj1118.github.io/kubernetes/CKA/cka-dday/)
+**Most Recent Post:** [스테이트풀셋(StatefulSets)](https://sunghj1118.github.io/kubernetes/2024-2study/13.3%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%ED%92%80%EC%85%8B%28StatefulSets%29/)
 <!-- END_RECENT_POST -->
