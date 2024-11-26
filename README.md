@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [773. Sliding Puzzle](https://sunghj1118.github.io/algorithm/LEET/L773SlidingPuzzle/)
+**Most Recent Post:** [2924. Find Champion II](https://sunghj1118.github.io/algorithm/LEET/L2924FindChampionII/)
 <!-- END_RECENT_POST -->
