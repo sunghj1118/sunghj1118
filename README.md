@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [3243. Shortest Distance After Road Addition Queries I](https://sunghj1118.github.io/algorithm/LEET/L3243ShortestDistanceAfterRoadAdditionQueriesI/)
+**Most Recent Post:** [2577. Minimum Time to Visit a Cell In a Grid](https://sunghj1118.github.io/algorithm/LEET/L2577MinimumTimetoVisitaCellInaGrid/)
 <!-- END_RECENT_POST -->
