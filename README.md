@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2577. Minimum Time to Visit a Cell In a Grid](https://sunghj1118.github.io/algorithm/LEET/L2577MinimumTimetoVisitaCellInaGrid/)
+**Most Recent Post:** [1346. Check If N and Its Double Exist](https://sunghj1118.github.io/algorithm/LEET/L1346CheckIfNandItsDoubleExist/)
 <!-- END_RECENT_POST -->
