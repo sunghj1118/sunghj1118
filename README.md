@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2337. Move Pieces to Obtain a String](https://sunghj1118.github.io/algorithm/LEET/L2337MovePiecestoaString/)
+**Most Recent Post:** [2554. Maximum Number of Integers to Choose From a Range I](https://sunghj1118.github.io/algorithm/LEET/L2554MaximumNumberofIntegerstoChooseFromaRangeI/)
 <!-- END_RECENT_POST -->
