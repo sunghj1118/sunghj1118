@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [2981. Find Longest Special Substring That Occurs Thrice I](https://sunghj1118.github.io/algorithm/LEET/L2981FindLongestSpecialSubstringThatOccursThriceI/)
+**Most Recent Post:** [2779. Maximum Beauty of an Array After Applying Operation](https://sunghj1118.github.io/algorithm/LEET/L2779MaximumBeautyofanArrayAfterApplyingOperation/)
 <!-- END_RECENT_POST -->
