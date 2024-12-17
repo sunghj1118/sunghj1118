@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [3264. Final Array State After K Multiplication Operations I](https://sunghj1118.github.io/algorithm/LEET/L3264FinalArrayStateAfterKMultiplicationOperationsI/)
+**Most Recent Post:** [2182. Construct String With Repeat Limit](https://sunghj1118.github.io/algorithm/LEET/L2182ConstructStringWithRepeatLimit/)
 <!-- END_RECENT_POST -->
