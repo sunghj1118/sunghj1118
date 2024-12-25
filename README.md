@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [769. Max Chunks To Make Sorted](https://sunghj1118.github.io/algorithm/LEET/L769MaxChunksToMakeSorted/)
+**Most Recent Post:** [515. Find Largest Value in Each Tree Row](https://sunghj1118.github.io/algorithm/LEET/L515FindLargestValueinEachTreeRow/)
 <!-- END_RECENT_POST -->
