@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [515. Find Largest Value in Each Tree Row](https://sunghj1118.github.io/algorithm/LEET/L515FindLargestValueinEachTreeRow/)
+**Most Recent Post:** [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://sunghj1118.github.io/algorithm/LEET/L689MaximumSumof3NonOverlappingSubarrays/)
 <!-- END_RECENT_POST -->
