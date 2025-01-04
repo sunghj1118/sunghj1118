@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://sunghj1118.github.io/algorithm/LEET/L689MaximumSumof3NonOverlappingSubarrays/)
+**Most Recent Post:** [1930. Unique Length-3 Palindromic Subsequences](https://sunghj1118.github.io/algorithm/LEET/L1930UniqueLength3PalindromicSubsequences/)
 <!-- END_RECENT_POST -->
