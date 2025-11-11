@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [129. Sum Root to Leaf Numbers](https://sunghj1118.github.io/algorithm/LEET/L129SumRoottoLeafNumbers/)
+**Most Recent Post:** [102. Binary Tree Level Order Traversal](https://sunghj1118.github.io/algorithm/LEET/L102BinaryTreeLevelOrderTraversal/)
 <!-- END_RECENT_POST -->
