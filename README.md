@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [102. Binary Tree Level Order Traversal](https://sunghj1118.github.io/algorithm/LEET/L102BinaryTreeLevelOrderTraversal/)
+**Most Recent Post:** [199. Binary Tree Right Side View](https://sunghj1118.github.io/algorithm/LEET/L199BinaryTreeRightSideView/)
 <!-- END_RECENT_POST -->
