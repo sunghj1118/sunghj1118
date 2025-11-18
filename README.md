@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [103. Binary Tree Zigzag Level Order Traversal](https://sunghj1118.github.io/algorithm/LEET/L103BinaryTreeZigzagLevelOrderTraversal/)
+**Most Recent Post:** [RAE (Representation Autoencoder)](https://sunghj1118.github.io/AI/rae/)
 <!-- END_RECENT_POST -->
