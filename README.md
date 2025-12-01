@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [17. Letter Combinations of a Phone Number](https://sunghj1118.github.io/algorithm/LEET/L17LetterCombinationsofaPhoneNumber/)
+**Most Recent Post:** [Sync vs Async](https://sunghj1118.github.io/CS/async/)
 <!-- END_RECENT_POST -->
