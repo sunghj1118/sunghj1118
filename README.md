@@ -14,5 +14,5 @@ I enjoy creating hands-on projects and learning new things👷. Currently intere
 <br>
 
 <!-- START_RECENT_POST -->
-**Most Recent Post:** [22. Generate Parentheses](https://sunghj1118.github.io/algorithm/LEET/L22GenerateParentheses/)
+**Most Recent Post:** [1202. Smallest String With Swaps](https://sunghj1118.github.io/algorithm/LEET/L1202SmallestStringWithSwaps/)
 <!-- END_RECENT_POST -->
